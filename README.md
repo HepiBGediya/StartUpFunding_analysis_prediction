@@ -1,0 +1,2 @@
+# StartUpFunding_analysis_prediction
+StartUpFunding_analysis_prediction using Python 
